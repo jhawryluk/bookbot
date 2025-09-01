@@ -1,2 +1,3 @@
 # bookbot
-words in a book
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
